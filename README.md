@@ -9,4 +9,4 @@
 * If you have any questions, please contact: brito.thiago01@gmail.com
 ***
 
-Projects mainly using Python technology
+Projects mainly using Python technologies
